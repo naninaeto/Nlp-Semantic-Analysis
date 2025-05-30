@@ -38,7 +38,7 @@ This project is a Streamlit web application that extracts and visualizes semanti
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/semantic-frame-builder.git
+   [git clone https://github.com/yourusername/semantic-frame-builder.git](https://github.com/naninaeto/Nlp-Semantic-Analysis.git)
    cd semantic-frame-builder
 
 
