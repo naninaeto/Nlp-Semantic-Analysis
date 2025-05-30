@@ -15,9 +15,9 @@ This project is a Streamlit web application that extracts and visualizes semanti
   - Named Entities with labels and senses
 - Contextual word sense disambiguation using WordNet and optionally BERT-based transformers.
 - Dependency tree visualization using spaCy-Streamlit.
-- Simple and interactive web UI for input and visualization.
+- Simple and interactive web UI for input and visualization
 
---------------------------------------------------------------------------|
+
 |streamlit — for the web app interface                                    |
                                                                           |
 |spacy — core NLP library                                                 |
@@ -31,7 +31,7 @@ This project is a Streamlit web application that extracts and visualizes semanti
 |torch — required by transformers as the backend                          |
                                                                           |
 |spacy-streamlit — for dependency tree visualization                      |
---------------------------------------------------------------------------|
+
 
 ## Installation
 
